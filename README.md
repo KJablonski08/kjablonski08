@@ -2,7 +2,7 @@
   <img src="giphy.gif">
 </p>
 
-<p>I'm fun to work with and I am always open to learning new things from others. I love to code.</p>
+<p align="center">I'm fun to work with and I am always open to learning new things from others. I love to code.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/katie-jablonski/"><img alt="follow me on linkedin" title="Follow me on linkedin" src="https://img.shields.io/badge/-katiejablonski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/katie-jablonski"/></a>
