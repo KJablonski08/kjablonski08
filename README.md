@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="giphy.gif">
+  <img src="katiejablonski.gif">
 </p>
 
 <p align="center">I'm fun to work with and I am always open to learning new things from others. I love to code.</p>
@@ -48,7 +48,8 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=kjablonski08)
 
- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kjablonski08's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjablonski08&langs_count=10&layout=compact#" /></a>
-  <br/>
-  <b><i>Note:</i></b> <i>This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.</i>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="kjablonski08's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjablonski08&langs_count=10&layout=compact#" /></a>
+<br/>
+<b><i>Note:</i></b> <i>This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.</i>
+
 </details>
