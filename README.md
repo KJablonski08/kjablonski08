@@ -9,9 +9,4 @@
 [![Website Badge](https://img.shields.io/badge/-katiejablonski-darkgreen?style=flat-square&logo=Safari&logoColor=white&link=http://katiejablonski.com)](http://www.katiejablonski.com/)
 
 
-<p>💻 I’m currently working on </p>
-<p>💡 I’m currently learning ... </p>
-<p> You can reach me at: </p>
-[Email Me](kjablonski08@gmail.com)
-<p>😄 Pronouns: she/her </p>
 <p>When I am not coding I am usually on a hike with my rescue dog, Dax, or knitting while enjoying a movie</p>
