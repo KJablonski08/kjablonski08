@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](MyPost.mp4)
+![](giphy.gif)
 
 Here are some ideas to get you started:
 
