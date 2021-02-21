@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="katiejablonski.gif">
-</p>
-
 <p align="center">I'm fun to work with and I am always open to learning new things from others. I love to code.</p>
 
 <p align="center">
